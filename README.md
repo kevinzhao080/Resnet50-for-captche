@@ -32,3 +32,6 @@ python ./model_predict.py
 结果如下：
 
 ![](./images/sorce/训练结果.png)
+
+感谢:
+基础代码修改自[captcha-resnet50-classifier](https://www.kaggle.com/code/johnbergmann/captcha-resnet50-classifier/notebook)
